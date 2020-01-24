@@ -1,0 +1,5 @@
+2020-01-03 10:06:44,630  INFO [main] Log4jdemo:17 - application started successfully
+2020-01-03 10:06:44,644  WARN [main] Log4jdemo:22 - check title
+2020-01-03 10:10:14,384  INFO [main] Log4jdemo:17 - application started successfully
+2020-01-03 10:10:14,395  WARN [main] Log4jdemo:22 - check title
+2020-01-03 10:10:14,395 ERROR [main] Log4jdemo:34 - incorrect title
